@@ -1,3 +1,5 @@
-# MS_AI_SCHOOL
+## :green_book: MS AI STUDY
 
-MS_AI_SCHOOL 과정에서 배우는 것들을 저장하는 저장소입니다.
+> ### 🐍 PYTHON
+> > - [python_basic](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.13_python_basic)
+
