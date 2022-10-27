@@ -10,3 +10,5 @@
 * [flask_beautiful_soup_database](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.20_flask_beautiful_soup_database)
 * [data_preprecessing](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.21_data_preprocessing)
 * [townhall](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.25_townhall)
+* [orange_data_mining](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.26_orange_data_mining)
+* [scikit_learn]()
