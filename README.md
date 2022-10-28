@@ -11,4 +11,5 @@
 * [data_preprecessing](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.21_data_preprocessing)
 * [townhall](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.25_townhall)
 * [orange_data_mining](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.26_orange_data_mining)
-* [scikit_learn]()
+* [scikit_learn](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.27_scikit_learn)
+* [classification_unsupervised_learning](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.28_classification_unsupervised_learning)
