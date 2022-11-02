@@ -14,3 +14,4 @@
 * [scikit_learn](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.27_scikit_learn)
 * [classification_unsupervised_learning](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.28_classification_unsupervised_learning)
 * [tensor_neural_network_structure_keras](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.10.31_tensor_neural_network_structure_keras)
+* [keras_movie_reuter_boston](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.01_keras_movie_reuter_boston)
