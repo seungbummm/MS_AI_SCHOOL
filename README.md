@@ -18,3 +18,4 @@
 * [cnn_cats_and_dogs](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.02_cnn_cats_and_dogs)
 * [diabetes-experiment](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.04_diabetes-experiment)
 * [blob_container_storage](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.07_blob_container_storage)
+* [eventhub_queue_snapshot](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.08_eventhub_queue_snapshot)
