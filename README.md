@@ -19,3 +19,4 @@
 * [diabetes-experiment](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.04_diabetes-experiment)
 * [blob_container_storage](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.07_blob_container_storage)
 * [eventhub_queue_snapshot](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.08_eventhub_queue_snapshot)
+* [pandas](https://github.com/seungbummm/Ms-AiSchool/tree/main/22.11.22_pandas)
